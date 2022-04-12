@@ -1,46 +1,33 @@
-## About me
-- 👋 Hi, I’m Gunnar
-- 👀 I’m interested in Motobikes
-- 🌱 I’m currently learning Terraform, AWS, Puppet
-- 💞️ I’m looking to collaborate on Azure PowerShell Scripts
-- 📫 e-mail: gunnar@goebel.cloud
+## Hi, I am Gunnar!  
+I am a Cloud Architect for Microsoft Azure and Amazon Web Services providing Cloud Management for my employee.
 
-<!---
-goebelcloud/goebelcloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-## My Skill Set  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-</div>
-
-## Connect with me  
-<div align="left">
+## Contact  
+<a href="https://github.com/goebelcloud" target="_blank">
+<img style="margin: 10px" src="https://github.com/goebelcloud/goebelcloud/blob/main/images/github.svg" alt="Git" />
+</a>
 <a href="https://linkedin.com/in/gunnar-g-5726bb124" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img style="margin: 10px" src="https://github.com/goebelcloud/goebelcloud/blob/main/images/linkedin.svg" alt="Linkedin" />
 </a>  
+<a href="https://www.xing.com/profile/Gunnar_Goebel3/" target="_blank">
+<img style="margin: 10px" src="https://github.com/goebelcloud/goebelcloud/blob/main/images/xing.svg" alt="Xing" />
+</a>  
+
+## Rapidfire  
+
+- 💼 I’m currently working on   
+- 🎓 I’m currently learning Terraform and AWS  
+
+## Languages and Tools  
+<div align="center">  
+<img style="margin: 10px" src="https://github.com/goebelcloud/goebelcloud/blob/main/images/AWS.svg" alt="Amazon Web ServicesWS" />  
+<img style="margin: 10px" src="https://github.com/goebelcloud/goebelcloud/blob/main/images/MSAzure.svg" alt="Microsoft Azure" />  
+<img style="margin: 10px" src="https://github.com/goebelcloud/goebelcloud/blob/main/images/PowerShell.svg" alt="PowerShell" />  
+<img style="margin: 10px" src="https://github.com/goebelcloud/goebelcloud/blob/main/images/Terraform.svg" alt="Terraform" />  
+<img style="margin: 10px" src="https://github.com/goebelcloud/goebelcloud/blob/main/images/github.svg" alt="Git" />
+<img style="margin: 10px" src="https://github.com/goebelcloud/goebelcloud/blob/main/images/HTML5.svg" alt="HTML5" />  
+<img style="margin: 10px" src="https://github.com/goebelcloud/goebelcloud/blob/main/images/CSS3.svg" alt="CSS3" />  
+<img style="margin: 10px" src="https://github.com/goebelcloud/goebelcloud/blob/main/images/PHP.svg" alt="PHP" />  
+<img style="margin: 10px" src="https://github.com/goebelcloud/goebelcloud/blob/main/images/MYSQL.svg" alt="MySQL" />
+<img style="margin: 10px" src="https://github.com/goebelcloud/goebelcloud/blob/main/images/XMPP.svg" alt="XMPP" />
+<img style="margin: 10px" src="https://github.com/goebelcloud/goebelcloud/blob/main/images/wordpress.svg" alt="WordPress" />  
 </div>  
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=goebelcloud&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=goebelcloud&&style=flat-square" align="center" />
-</div>  
-
-<div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
