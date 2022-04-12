@@ -16,7 +16,7 @@
 </a>  
 
 ## Languages and Tools  
-<div align="center">  
+<div align="left">  
 <img style="margin: 10px" src="https://github.com/goebelcloud/goebelcloud/blob/main/images/AWS.svg" alt="Amazon Web ServicesWS" />  
 <img style="margin: 10px" src="https://github.com/goebelcloud/goebelcloud/blob/main/images/MSAzure.svg" alt="Microsoft Azure" />  
 <img style="margin: 10px" src="https://github.com/goebelcloud/goebelcloud/blob/main/images/PowerShell.svg" alt="PowerShell" />  
