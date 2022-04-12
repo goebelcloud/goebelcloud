@@ -1,5 +1,8 @@
 ## Hi, I am Gunnar!  
-I am a Cloud Architect for Microsoft Azure and Amazon Web Services providing Cloud Management for my employee.
+- 💼 I work as a Cloud Architect
+- 🎓 I am currently improve my skills in AWS and Terraform
+- :heart: I love riding my motobike and playing Computer Games
+
 
 ## Contact  
 <a href="https://github.com/goebelcloud" target="_blank">
@@ -11,11 +14,6 @@ I am a Cloud Architect for Microsoft Azure and Amazon Web Services providing Clo
 <a href="https://www.xing.com/profile/Gunnar_Goebel3/" target="_blank">
 <img style="margin: 10px" src="https://github.com/goebelcloud/goebelcloud/blob/main/images/xing.svg" alt="Xing" />
 </a>  
-
-## Rapidfire  
-
-- 💼 I’m currently working on   
-- 🎓 I’m currently learning Terraform and AWS  
 
 ## Languages and Tools  
 <div align="center">  
