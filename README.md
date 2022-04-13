@@ -1,7 +1,7 @@
 ## Hi, I am Gunnar!  
-- 💼 I work as a Cloud Architect
-- 🎓 I am currently improve my skills in AWS and Terraform
-- :heart: I love riding my motobike and playing Computer Games
+- :office_worker: I work as a Cloud Architect
+- :student: I currently developing my skills in AWS and Terraform
+- :biking_man::heart: I love riding my motobike and playing Computer Games
 
 
 ## Contact  
