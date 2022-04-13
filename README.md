@@ -23,10 +23,10 @@
 <img style="margin: 10px" src="https://github.com/goebelcloud/goebelcloud/blob/main/images/AWS.svg" alt="Amazon Web Services" />
 <img style="margin: 10px" src="https://github.com/goebelcloud/goebelcloud/blob/main/images/github.svg" alt="Git" />
 <img style="margin: 10px" src="https://github.com/goebelcloud/goebelcloud/blob/main/images/Terraform.svg" alt="Terraform" /> <br />  
+<img style="margin: 10px" src="https://github.com/goebelcloud/goebelcloud/blob/main/images/XMPP.svg" alt="XMPP" />
 <img style="margin: 10px" src="https://github.com/goebelcloud/goebelcloud/blob/main/images/HTML5.svg" alt="HTML5" />  
 <img style="margin: 10px" src="https://github.com/goebelcloud/goebelcloud/blob/main/images/CSS3.svg" alt="CSS3" />  
 <img style="margin: 10px" src="https://github.com/goebelcloud/goebelcloud/blob/main/images/PHP.svg" alt="PHP" />  
 <img style="margin: 10px" src="https://github.com/goebelcloud/goebelcloud/blob/main/images/MYSQL.svg" alt="MySQL" />
-<img style="margin: 10px" src="https://github.com/goebelcloud/goebelcloud/blob/main/images/XMPP.svg" alt="XMPP" />
 <img style="margin: 10px" src="https://github.com/goebelcloud/goebelcloud/blob/main/images/wordpress.svg" alt="WordPress" />  
 </div>  
