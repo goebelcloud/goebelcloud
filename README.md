@@ -17,7 +17,7 @@
 
 ## Languages and Tools  
 <div align="left">  
-<img style="margin: 10px" src="https://github.com/goebelcloud/goebelcloud/blob/main/images/vscode.svg" alt="Visual Studio CodeAmazon Web Services" />  
+<img style="margin: 10px" src="https://github.com/goebelcloud/goebelcloud/blob/main/images/vscode.svg" alt="Visual Studio Code" />  
 <img style="margin: 10px" src="https://github.com/goebelcloud/goebelcloud/blob/main/images/github.svg" alt="Git" />
 <img style="margin: 10px" src="https://github.com/goebelcloud/goebelcloud/blob/main/images/MSAzure.svg" alt="Microsoft Azure" />  
 <img style="margin: 10px" src="https://github.com/goebelcloud/goebelcloud/blob/main/images/PowerShell.svg" alt="PowerShell" />  
