@@ -3,7 +3,6 @@
 - :student: I currently developing my skills in AWS and Terraform
 - :heart::biking_man: I love riding my motobike and playing Computer Games
 
-
 ## Contact  
 <a href="https://github.com/goebelcloud" target="_blank">
 <img style="margin: 10px" src="https://github.com/goebelcloud/goebelcloud/blob/main/images/github.svg" alt="Git" />
