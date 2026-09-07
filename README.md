@@ -8,9 +8,6 @@
   <a href="https://linkedin.com/in/gunnar-g-5726bb124">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/goebelcloud">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://linkedin.com/in/gunnar-g-5726bb124">
     <img src="https://img.shields.io/badge/Open%20to%20work-2EA043?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to work" />
   </a>
