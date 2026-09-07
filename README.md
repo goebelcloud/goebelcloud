@@ -1,6 +1,5 @@
 ## Hi, I'm Gunnar!  
 - :office_worker: I work as a Cloud Architect
-- :magnifier: Im loooking for a job
 - :student: I am currently developing my skills in Claude Code
 - :heart::biking_man: I love riding my motobike and playing Computer Games
 
