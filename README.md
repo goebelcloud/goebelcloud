@@ -1,3 +1,26 @@
+<h1 align="center">Hi, I'm Gunnar 👋</h1>
+
+<p align="center">
+  <b>Cloud Architect</b> &nbsp;·&nbsp; Azure &amp; Infrastructure as Code &nbsp;·&nbsp; Agentic Engineering
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/gunnar-g-5726bb124">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/goebelcloud">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/gunnar-g-5726bb124">
+    <img src="https://img.shields.io/badge/Open%20to%20work-2EA043?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to work" />
+  </a>
+</p>
+
+> [!NOTE]
+> **Open to new opportunities.** I'm currently exploring new roles in cloud architecture and platform engineering — freelance or permanent. Feel free to [reach out on LinkedIn](https://linkedin.com/in/gunnar-g-5726bb124).
+
+---
+
 ### 🧭 About me
 
 - 🏢 **Cloud Architect** — I design and build Azure platforms: landing zones, governance, networking, identity
@@ -10,7 +33,9 @@
 
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
@@ -21,4 +46,5 @@
 
 ### 🚀 Currently
 
+- 🔭 Working on **[project name]** — one short line on what it does
 - 🌱 Learning: Claude Agent SDK, MCP servers for Azure tooling
