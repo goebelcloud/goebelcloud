@@ -14,7 +14,8 @@
 </p>
 
 > [!NOTE]
-> **Open to new opportunities.** I'm currently exploring new roles in cloud architecture and platform engineering. Feel free to [reach out on LinkedIn](https://linkedin.com/in/gunnar-g-5726bb124).
+> **Open to new opportunities.** I'm currently exploring new roles in cloud architecture and platform engineering.
+> Feel free to [reach out on LinkedIn](https://linkedin.com/in/gunnar-g-5726bb124).
 
 ---
 
