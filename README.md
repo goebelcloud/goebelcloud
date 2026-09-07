@@ -1,7 +1,7 @@
 ### 🧭 About me
 
 - 🏢 **Cloud Architect** — I design and build Azure platforms: landing zones, governance, networking, identity
-- 🧱 Everything as code — **Terraform**, **Bicep**, **PowerShell**, CI/CD with GitHub Actions & Azure DevOps
+- 🧱 Everything as code — **Terraform**, **PowerShell**, CI/CD with GitHub Actions & Azure DevOps
 - 🤖 Currently deep into **Claude Code**, MCP servers and agentic development workflows
 - 💬 Ask me about: Azure landing zones, IaC structure, cloud governance, FinOps
 - 📍 Based in Germany
